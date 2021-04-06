@@ -1,0 +1,1 @@
+# Klasifikasi_data_penyakit_tidak_menular_dengan_Naive_Bayes.ipynb
